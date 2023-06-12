@@ -8,6 +8,6 @@ const getEmployeeByName = (employeeName) => {
   return (employee === undefined) ? employee : {};
 };
 
-console.log(getEmployeeByName());
+// console.log(getEmployeeByName());
 
 module.exports = getEmployeeByName;
