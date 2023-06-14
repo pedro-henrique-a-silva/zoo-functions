@@ -5,7 +5,7 @@ const getEmployeeByName = (employeeName) => {
   const employee = employeeData
     .find(({ firstName, lastName }) => firstName === employeeName || lastName === employeeName);
 
-  return (employee === undefined) ? employee : {};
+  return (employee !== undefined) ? employee : {};
 };
 
 // console.log(getEmployeeByName());
