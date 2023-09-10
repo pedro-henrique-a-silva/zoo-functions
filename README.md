@@ -1,8 +1,8 @@
-# Título do Projeto
+# Projeto Zoo Functions
 
 ## Descrição
 
-Este repositório está em construção. Aqui você encontrará [breve resumo do projeto ou curso] e seus componentes.
+Neste repositório, você encontrará o projeto que elaborei, no qual implementei algumas funcionalidades de uma aplicação que simulava o funcionamento de um zoológico, fazendo uso de Higher-Order Functions (HOFs).
 
 ## Conteúdo
 
@@ -11,11 +11,7 @@ Este repositório está em construção. Aqui você encontrará [breve resumo do
 
 ## Instruções de Instalação
 
-Descreva aqui as instruções necessárias para configurar o ambiente de desenvolvimento e instalar quaisquer dependências.
-
-## Como Usar
-
-Explique como usar. Forneça exemplos de código, capturas de tela ou demonstrações.
+Basta fazer o clone utilizar o `npm install` para instalar as dependências necessárias e dar uma olhada.
 
 ## Contribuição
 
@@ -29,5 +25,4 @@ Se você deseja contribuir para este projeto, siga estas etapas para contribuir:
 
 Lembre-se de que todas as contribuições são valorizadas e ajudam a tornar este projeto melhor para todos!
 
-## Continue como desejar este Readme.md
 **Observação:** Este repositório está em construção e será atualizado regularmente. Sinta-se à vontade para adicionar mais seções conforme necessário para o seu projeto.
